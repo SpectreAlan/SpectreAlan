@@ -13,9 +13,9 @@ Now I'm working at Philippines as a web frontend architect.
 
 [![SpectreAlan's github stats](https://github-readme-stats.vercel.app/api?username=SpectreAlan&show_icons=true&theme=radical)](https://997.dog)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpectreAlan&layout=compact&hide_border=true)](https://997.dog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog_nextjs&theme=chartreuse-dark)](https://github.com/SpectreAlan/blog_nextjs)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog_admin&theme=chartreuse-dark)](https://github.com/SpectreAlan/blog_admin)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog_nextjs&theme=react)](https://github.com/SpectreAlan/blog_nextjs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog_admin&theme=vue-dark)](https://github.com/SpectreAlan/blog_admin)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog-server&theme=chartreuse-dark)](https://github.com/SpectreAlan/blog-server)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=SpectreAlan.github.io&theme=chartreuse-dark)](https://github.com/SpectreAlan/SpectreAlan.github.io)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=cloud-music&theme=blueberry)](https://github.com/SpectreAlan/cloud-music)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=note&theme=blueberry)](https://github.com/SpectreAlan/note)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=note&theme=omni)](https://github.com/SpectreAlan/note)
