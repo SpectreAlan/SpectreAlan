@@ -11,4 +11,4 @@ Now I'm working at Philippines as a web frontend architect.
 <code><img height="20" src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-[![SpectreAlan's github stats](https://github-readme-stats.vercel.app/api?username=SpectreAlan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![SpectreAlan's github stats](https://github-readme-stats.vercel.app/api?username=SpectreAlan&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
