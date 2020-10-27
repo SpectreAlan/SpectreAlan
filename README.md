@@ -1,6 +1,6 @@
 ### Hi there, I'm Alan Grady 👋
 
-Now I'm working at Philippines as a web frontend architect.
+Now I'm working at Philippines as a web frontend developer.
 
 **Languages and Tools:**  
 
