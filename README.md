@@ -1,6 +1,6 @@
 ### Hi there, I'm Alan Grady 👋
 
-Now I'm working at Philippines as a web front-end developer.
+Now I'm working at Philippines as a frontend web developer.
 
 **Languages and Tools:**  
 
@@ -17,5 +17,5 @@ Now I'm working at Philippines as a web front-end developer.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog_admin&theme=vue-dark)](https://github.com/SpectreAlan/blog_admin)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog-server&theme=chartreuse-dark)](https://github.com/SpectreAlan/blog-server)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=SpectreAlan.github.io&theme=chartreuse-dark)](https://github.com/SpectreAlan/SpectreAlan.github.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=cloud-music&theme=react)](https://github.com/SpectreAlan/cloud-music)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=cloud-music-ts&theme=react)](https://github.com/SpectreAlan/cloud-music-ts)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=note&theme=omni)](https://github.com/SpectreAlan/note)
