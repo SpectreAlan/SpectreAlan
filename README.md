@@ -1,4 +1,4 @@
-### Hi there, I'm Alan Grady <code><img height="40" src="https://raw.githubusercontent.com/SpectreAlan/images/master/blog/roll.gif"></code>
+### Hi there, I'm Alan Grady <img height="40" src="https://raw.githubusercontent.com/SpectreAlan/images/master/blog/roll.gif">
 Now I'm working at Philippines as a frontend web developer.
 
 **Languages and Tools:**  
