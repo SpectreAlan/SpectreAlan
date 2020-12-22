@@ -17,16 +17,3 @@ Now I'm working at Philippines as a frontend web developer.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog-server&theme=material-palenight)](https://github.com/SpectreAlan/blog-server)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=note&theme=omni)](https://github.com/SpectreAlan/note)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=react-cloud-music-typescript&theme=react)](https://github.com/SpectreAlan/react-cloud-music-typescript)
-<script>
-const links = document.links;
-for (var i = 0; i < links.length; i++) {
-    if (!links[i].target) {
-        if (
-            links[i].hostname !== window.location.hostname || 
-            /\.(?!html?)([a-z]{0,3}|[a-zt]{0,4})$/.test(links[i].pathname)
-        ) {
-            links[i].target = '_blank';
-        } 
-    }
-}
-</script>
