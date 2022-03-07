@@ -12,7 +12,7 @@ Now I'm working at Philippines as a frontend web developer.
 
 [![SpectreAlan's github stats](https://github-readme-stats.vercel.app/api?username=SpectreAlan&show_icons=true&theme=radical)](https://jszoo.com)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpectreAlan&layout=compact&hide_border=true)](https://jszoo.com)
-<hr/>
+<br/>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog-nextjs&theme=react)](https://github.com/SpectreAlan/blog-nextjs)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog_admin&theme=chartreuse-dark)](https://github.com/SpectreAlan/blog_admin)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog-server&theme=material-palenight)](https://github.com/SpectreAlan/blog-server)
