@@ -14,4 +14,4 @@ Now I'm working at chendu as a frontend web developer.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog-nextjs&theme=react)](https://github.com/SpectreAlan/blog-nextjs)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog_admin&theme=chartreuse-dark)](https://github.com/SpectreAlan/blog_admin)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog-server&theme=material-palenight)](https://github.com/SpectreAlan/blog-server)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=react-cloud-music-typescript&theme=react)](https://github.com/SpectreAlan/nav-nextjs-vercel)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=nav-nextjs-vercel&theme=react)](https://github.com/SpectreAlan/nav-nextjs-vercel)
