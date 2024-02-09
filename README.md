@@ -13,5 +13,5 @@ Now I'm working at chendu as a frontend web developer.
 [![SpectreAlan's github stats](https://github-readme-stats.vercel.app/api?username=SpectreAlan&show_icons=true&theme=radical)](https://jszoo.com)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog-nextjs&theme=react)](https://github.com/SpectreAlan/blog-nextjs)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog_admin&theme=chartreuse-dark)](https://github.com/SpectreAlan/blog_admin)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog-server&theme=material-palenight)](https://github.com/SpectreAlan/blog-server)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=blog-server-nestjs-vercel&theme=material-palenight)](https://github.com/SpectreAlan/blog-server-nestjs-vercel)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SpectreAlan&repo=nav-nextjs-vercel&theme=react)](https://github.com/SpectreAlan/nav-nextjs-vercel)
